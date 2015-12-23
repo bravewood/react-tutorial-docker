@@ -12,7 +12,7 @@ http://facebook.github.io/react/docs/tutorial.html
 + Web Browser
 
 
-## clone this repository
+## Clone this repository
 ```
 mkdir react_tutorial
 cd react_tutorial
@@ -33,13 +33,16 @@ bash run_docker.sh
 
 ## Use the sample application
 open the url
+```
 http://<your docker machine ip>:3000/
+```
 
 
 ## Show active containers
 ```
 docker ps
 ```
+
 
 ## Stop the container
 ```
