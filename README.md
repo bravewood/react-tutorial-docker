@@ -1,6 +1,6 @@
 # React tutorial on Docker
 This is a test project to try the React tutorial on Docker.
-To use this, you can make the docker container which allows you to make a trial of React.
+By using this, you can make the docker container which allows you to make a trial of React.
 To lean more about React tutorial, please read the React Tutorial below.
 
 http://facebook.github.io/react/docs/tutorial.html
