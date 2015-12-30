@@ -1,1 +1,7 @@
 lib/react-tutorial-master/node_modules/
+lib/react-tutorial-master/public/*
+!lib/react-tutorial-master/public/scripts/*.js
+!lib/react-tutorial-master/public/css/*.css
+!lib/react-tutorial-master/public/*.html
+
+
