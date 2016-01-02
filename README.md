@@ -56,6 +56,13 @@ docker rm my-react
 ```
 
 
+## Login to the container shell
+```
+docker exec -i -t my-react /bin/bash
+```
+
+
+
 ## How to edit the codes of the tutorial
 After you execute the run_docker.sh command, your local codes will be mounted on the docker container and served by node server.
 That means, you will be able to edit the codes of tutorial and then the changes will be reflected on your browser immediately.
