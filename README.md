@@ -1,5 +1,5 @@
 # React tutorial on Docker
-This is a test project to try the React tutorial on Docker.
+This is a sample project to try the React tutorial on Docker.
 By using this, you can make the docker container which allows you to make a trial of React.
 To lean more about React tutorial, please read the React Tutorial below.
 
@@ -68,6 +68,14 @@ To compile your code written in JSX style, you should execute the browserify com
 
 cd react-tutorial-master/
 browserify -t reactify ./public/scripts/app.jsx -o ./public/scripts/app.js
+```
+
+## Install an additional node module
+```
+# after logged in to the container shell
+
+cd react-tutorial-master/
+npm install watchify
 ```
 
 
