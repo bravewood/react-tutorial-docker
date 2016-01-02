@@ -61,6 +61,14 @@ docker rm my-react
 docker exec -i -t my-react /bin/bash
 ```
 
+## Compile your jsx code
+To compile your code written in JSX style, you should execute the browserify command below.
+```
+# after logged in to the container shell
+
+cd react-tutorial-master/
+browserify -t reactify ./public/scripts/app.jsx -o ./public/scripts/app.js
+```
 
 
 ## How to edit the codes of the tutorial

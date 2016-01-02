@@ -1,6 +1,4 @@
 # React & node
-# via:
-#https://medium.com/@tribou/react-and-flux-a-docker-development-workflow-469957f3bbf0#.4iz88xenj
 
 FROM node:0.12
 MAINTAINER bravewood
