@@ -6,7 +6,7 @@ To lean more about React tutorial, please read the React Tutorial below.
 http://facebook.github.io/react/docs/tutorial.html
 
 
-## Necessary softwares
+## Required softwares
 + Docker
 + Docker Machine (Mac OS X)
 + Web Browser
